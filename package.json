@@ -1,0 +1,72 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@semantic-ui-react/css-patch": "^1.0.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "easymde": "^2.16.1",
+    "js-cookie": "3.0.1",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-helmet": "6.1.0",
+    "react-markdown": "^8.0.3",
+    "react-modal": "3.15.1",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "5.0.1",
+    "react-simplemde-editor": "^5.0.2",
+    "react-toastify": "9.0.1",
+    "semantic-ui-css": "2.4.1",
+    "semantic-ui-react": "2.1.2",
+    "web-vitals": "^0.2.4",
+    "workbox-background-sync": "^5.1.4",
+    "workbox-broadcast-update": "^5.1.4",
+    "workbox-cacheable-response": "^5.1.4",
+    "workbox-core": "^5.1.4",
+    "workbox-expiration": "^5.1.4",
+    "workbox-google-analytics": "^5.1.4",
+    "workbox-navigation-preload": "^5.1.4",
+    "workbox-precaching": "^5.1.4",
+    "workbox-range-requests": "^5.1.4",
+    "workbox-routing": "^5.1.4",
+    "workbox-strategies": "^5.1.4",
+    "workbox-streams": "^5.1.4",
+    "nth-check": ">=2.1.1",
+    "lodash": ">=4.17.21",
+    "lodash.template": ">=4.5.0",
+    "minimatch": ">=5.1.0"
+  },
+  "overrides": {
+    "graceful-fs": "^4.2.9"
+  },
+  "scripts": {
+    "start": "PORT=3001 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1",
+    "gulp": "^3.9.1"
+  }
+}

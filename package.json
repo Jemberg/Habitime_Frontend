@@ -19,7 +19,7 @@
     "react-simplemde-editor": "^5.0.2",
     "react-toastify": "9.0.1",
     "semantic-ui-css": "2.5.0",
-    "semantic-ui-react": "2.1.2",
+    "semantic-ui-react": "2.1.4",
     "web-vitals": "^0.2.4",
     "workbox-background-sync": "^5.1.4",
     "workbox-broadcast-update": "^5.1.4",

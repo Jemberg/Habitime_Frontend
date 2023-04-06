@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "habitime",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,8 +9,8 @@
     "@testing-library/user-event": "^12.8.3",
     "easymde": "^2.16.1",
     "js-cookie": "3.0.1",
-    "react": "18.0.0",
-    "react-dom": "18.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
     "react-helmet": "6.1.0",
     "react-markdown": "^8.0.3",
     "react-modal": "3.15.1",
@@ -18,7 +18,7 @@
     "react-scripts": "5.0.1",
     "react-simplemde-editor": "^5.0.2",
     "react-toastify": "9.0.1",
-    "semantic-ui-css": "2.4.1",
+    "semantic-ui-css": "2.5.0",
     "semantic-ui-react": "2.1.2",
     "web-vitals": "^0.2.4",
     "workbox-background-sync": "^5.1.4",

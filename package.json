@@ -34,7 +34,7 @@
     "workbox-strategies": "^5.1.4",
     "workbox-streams": "^5.1.4",
     "nth-check": ">=2.1.1",
-    "lodash": ">=4.17.21",
+    "lodash": "4.17.21",
     "lodash.template": ">=4.5.0",
     "minimatch": ">=5.1.0"
   },

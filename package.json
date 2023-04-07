@@ -6,7 +6,7 @@
     "@semantic-ui-react/css-patch": "^1.0.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
+    "@testing-library/user-event": "^14.4.3",
     "easymde": "^2.16.1",
     "js-cookie": "3.0.1",
     "react": "18.2.0",

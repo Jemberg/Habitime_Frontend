@@ -2,6 +2,9 @@
 
 Progressive Web Application made for task management.
 
+![Login Page](image.png)
+
+
 ## Features
 
 - User authentication via JsonWebTokens.
